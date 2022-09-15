@@ -12,6 +12,12 @@ We can make lists – *note that lists need a carriage return before list items!
 1. Pizza
 2. Lasanga
 3. Ice cream
+4. Bacon
+
+New list, worst foods ever:
+1. Liver
+2. Bacon Jelly
+3. Brain
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
