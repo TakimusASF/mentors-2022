@@ -2,6 +2,8 @@
 
 ![cat gif](https://media.giphy.com/media/l4KibK3JwaVo0CjDO/giphy.gif)
 
+![another cat gif](https://media.giphy.com/media/WXB88TeARFVvi/giphy.gif)
+
 Working on GitHub.com, we contribute changes through **commits**. Let's create several commits by making small edits to this file, writing a commit message, and committing changes to see them posted nicely online to communicate our work. 
 
 This file is written in Markdown, which formats text. For example, with Markdown:
