@@ -13,6 +13,7 @@ We can make lists – *note that lists need a carriage return before list items!
 1. bananas
 2. tamales
 3. cakes
+4. honey
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
@@ -27,7 +28,7 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 
-## Your turn
+I did my turn
 
 **Click the pencil to edit and make several commits as play around – what else can you change or add?**
 
